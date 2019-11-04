@@ -1,0 +1,6 @@
+[submodule "consul"]
+	path = hashicorp/consul
+	url = https://github.com/hashicorp/consul-helm.git
+[submodule "vault"]
+	path = hashicorp/vault
+	url = https://github.com/hashicorp/vault-helm.git
